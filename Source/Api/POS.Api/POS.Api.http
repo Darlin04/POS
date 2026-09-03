@@ -1,0 +1,6 @@
+@POS.Api_HostAddress = http://localhost:5253/api/measurement-units
+
+GET {{POS.Api_HostAddress}}
+Accept: application/json
+
+###
